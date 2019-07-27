@@ -1,0 +1,6 @@
+C:\programowanie\visual 2015\c#\kata\6 rank\Sequences and Series\Sequences and Series\bin\Debug\Sequences and Series.exe.config
+C:\programowanie\visual 2015\c#\kata\6 rank\Sequences and Series\Sequences and Series\bin\Debug\Sequences and Series.exe
+C:\programowanie\visual 2015\c#\kata\6 rank\Sequences and Series\Sequences and Series\bin\Debug\Sequences and Series.pdb
+C:\programowanie\visual 2015\c#\kata\6 rank\Sequences and Series\Sequences and Series\obj\Debug\Sequences and Series.csprojResolveAssemblyReference.cache
+C:\programowanie\visual 2015\c#\kata\6 rank\Sequences and Series\Sequences and Series\obj\Debug\Sequences and Series.exe
+C:\programowanie\visual 2015\c#\kata\6 rank\Sequences and Series\Sequences and Series\obj\Debug\Sequences and Series.pdb

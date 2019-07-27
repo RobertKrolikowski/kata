@@ -1,0 +1,6 @@
+C:\programowanie\visual 2015\c#\kata\6 rank\Rectangle into Squares\Rectangle into Squares\bin\Debug\Rectangle into Squares.exe.config
+C:\programowanie\visual 2015\c#\kata\6 rank\Rectangle into Squares\Rectangle into Squares\bin\Debug\Rectangle into Squares.exe
+C:\programowanie\visual 2015\c#\kata\6 rank\Rectangle into Squares\Rectangle into Squares\bin\Debug\Rectangle into Squares.pdb
+C:\programowanie\visual 2015\c#\kata\6 rank\Rectangle into Squares\Rectangle into Squares\obj\Debug\Rectangle into Squares.csprojResolveAssemblyReference.cache
+C:\programowanie\visual 2015\c#\kata\6 rank\Rectangle into Squares\Rectangle into Squares\obj\Debug\Rectangle into Squares.exe
+C:\programowanie\visual 2015\c#\kata\6 rank\Rectangle into Squares\Rectangle into Squares\obj\Debug\Rectangle into Squares.pdb

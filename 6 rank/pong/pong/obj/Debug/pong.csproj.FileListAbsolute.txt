@@ -1,0 +1,6 @@
+C:\programowanie\visual 2015\c#\kata\6 rank\pong\pong\bin\Debug\pong.exe.config
+C:\programowanie\visual 2015\c#\kata\6 rank\pong\pong\bin\Debug\pong.exe
+C:\programowanie\visual 2015\c#\kata\6 rank\pong\pong\bin\Debug\pong.pdb
+C:\programowanie\visual 2015\c#\kata\6 rank\pong\pong\obj\Debug\pong.csprojResolveAssemblyReference.cache
+C:\programowanie\visual 2015\c#\kata\6 rank\pong\pong\obj\Debug\pong.exe
+C:\programowanie\visual 2015\c#\kata\6 rank\pong\pong\obj\Debug\pong.pdb

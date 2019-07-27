@@ -1,0 +1,5 @@
+C:\programowanie\visual 2015\c#\kata\6 rank\Missing Alphabet\Missing Alphabet\bin\Debug\Missing Alphabet.exe.config
+C:\programowanie\visual 2015\c#\kata\6 rank\Missing Alphabet\Missing Alphabet\bin\Debug\Missing Alphabet.exe
+C:\programowanie\visual 2015\c#\kata\6 rank\Missing Alphabet\Missing Alphabet\bin\Debug\Missing Alphabet.pdb
+C:\programowanie\visual 2015\c#\kata\6 rank\Missing Alphabet\Missing Alphabet\obj\Debug\Missing Alphabet.exe
+C:\programowanie\visual 2015\c#\kata\6 rank\Missing Alphabet\Missing Alphabet\obj\Debug\Missing Alphabet.pdb
