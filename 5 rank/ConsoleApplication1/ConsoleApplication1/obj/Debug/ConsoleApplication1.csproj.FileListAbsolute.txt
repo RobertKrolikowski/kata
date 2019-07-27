@@ -1,0 +1,6 @@
+C:\programowanie\visual 2015\c#\kata\5 rank\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\programowanie\visual 2015\c#\kata\5 rank\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\programowanie\visual 2015\c#\kata\5 rank\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\programowanie\visual 2015\c#\kata\5 rank\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\programowanie\visual 2015\c#\kata\5 rank\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\programowanie\visual 2015\c#\kata\5 rank\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
