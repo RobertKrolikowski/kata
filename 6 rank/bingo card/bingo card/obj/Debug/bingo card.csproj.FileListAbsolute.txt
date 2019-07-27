@@ -1,0 +1,5 @@
+C:\programowanie\visual 2015\c#\kata\6 rank\bingo card\bingo card\bin\Debug\bingo card.exe.config
+C:\programowanie\visual 2015\c#\kata\6 rank\bingo card\bingo card\bin\Debug\bingo card.exe
+C:\programowanie\visual 2015\c#\kata\6 rank\bingo card\bingo card\bin\Debug\bingo card.pdb
+C:\programowanie\visual 2015\c#\kata\6 rank\bingo card\bingo card\obj\Debug\bingo card.exe
+C:\programowanie\visual 2015\c#\kata\6 rank\bingo card\bingo card\obj\Debug\bingo card.pdb

@@ -1,0 +1,6 @@
+C:\programowanie\visual 2015\c#\kata\6 rank\Fruit Machine\Fruit Machine\bin\Debug\Fruit Machine.exe.config
+C:\programowanie\visual 2015\c#\kata\6 rank\Fruit Machine\Fruit Machine\bin\Debug\Fruit Machine.exe
+C:\programowanie\visual 2015\c#\kata\6 rank\Fruit Machine\Fruit Machine\bin\Debug\Fruit Machine.pdb
+C:\programowanie\visual 2015\c#\kata\6 rank\Fruit Machine\Fruit Machine\obj\Debug\Fruit Machine.csprojResolveAssemblyReference.cache
+C:\programowanie\visual 2015\c#\kata\6 rank\Fruit Machine\Fruit Machine\obj\Debug\Fruit Machine.exe
+C:\programowanie\visual 2015\c#\kata\6 rank\Fruit Machine\Fruit Machine\obj\Debug\Fruit Machine.pdb
