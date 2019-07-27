@@ -1,0 +1,6 @@
+C:\programowanie\visual 2015\c#\kata\7 rank\Determine if the poker hand is flush\Determine if the poker hand is flush\bin\Debug\Determine if the poker hand is flush.exe.config
+C:\programowanie\visual 2015\c#\kata\7 rank\Determine if the poker hand is flush\Determine if the poker hand is flush\obj\Debug\Determine if the poker hand is flush.csprojResolveAssemblyReference.cache
+C:\programowanie\visual 2015\c#\kata\7 rank\Determine if the poker hand is flush\Determine if the poker hand is flush\bin\Debug\Determine if the poker hand is flush.exe
+C:\programowanie\visual 2015\c#\kata\7 rank\Determine if the poker hand is flush\Determine if the poker hand is flush\bin\Debug\Determine if the poker hand is flush.pdb
+C:\programowanie\visual 2015\c#\kata\7 rank\Determine if the poker hand is flush\Determine if the poker hand is flush\obj\Debug\Determine if the poker hand is flush.exe
+C:\programowanie\visual 2015\c#\kata\7 rank\Determine if the poker hand is flush\Determine if the poker hand is flush\obj\Debug\Determine if the poker hand is flush.pdb
