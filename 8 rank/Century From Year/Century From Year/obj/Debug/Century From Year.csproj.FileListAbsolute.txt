@@ -1,0 +1,6 @@
+C:\programowanie\visual 2015\c#\kata\8 rank\Century From Year\Century From Year\bin\Debug\Century From Year.exe.config
+C:\programowanie\visual 2015\c#\kata\8 rank\Century From Year\Century From Year\obj\Debug\Century From Year.csprojResolveAssemblyReference.cache
+C:\programowanie\visual 2015\c#\kata\8 rank\Century From Year\Century From Year\bin\Debug\Century From Year.exe
+C:\programowanie\visual 2015\c#\kata\8 rank\Century From Year\Century From Year\bin\Debug\Century From Year.pdb
+C:\programowanie\visual 2015\c#\kata\8 rank\Century From Year\Century From Year\obj\Debug\Century From Year.exe
+C:\programowanie\visual 2015\c#\kata\8 rank\Century From Year\Century From Year\obj\Debug\Century From Year.pdb

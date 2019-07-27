@@ -1,0 +1,6 @@
+C:\programowanie\visual 2015\c#\kata\8 rank\all\all\bin\Debug\all.exe.config
+C:\programowanie\visual 2015\c#\kata\8 rank\all\all\obj\Debug\all.csprojResolveAssemblyReference.cache
+C:\programowanie\visual 2015\c#\kata\8 rank\all\all\bin\Debug\all.exe
+C:\programowanie\visual 2015\c#\kata\8 rank\all\all\bin\Debug\all.pdb
+C:\programowanie\visual 2015\c#\kata\8 rank\all\all\obj\Debug\all.exe
+C:\programowanie\visual 2015\c#\kata\8 rank\all\all\obj\Debug\all.pdb

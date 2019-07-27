@@ -1,0 +1,5 @@
+C:\programowanie\visual 2015\c#\kata\8 rank\Remove First and Last Character\Remove First and Last Character\bin\Debug\Remove First and Last Character.exe.config
+C:\programowanie\visual 2015\c#\kata\8 rank\Remove First and Last Character\Remove First and Last Character\bin\Debug\Remove First and Last Character.exe
+C:\programowanie\visual 2015\c#\kata\8 rank\Remove First and Last Character\Remove First and Last Character\bin\Debug\Remove First and Last Character.pdb
+C:\programowanie\visual 2015\c#\kata\8 rank\Remove First and Last Character\Remove First and Last Character\obj\Debug\Remove First and Last Character.exe
+C:\programowanie\visual 2015\c#\kata\8 rank\Remove First and Last Character\Remove First and Last Character\obj\Debug\Remove First and Last Character.pdb

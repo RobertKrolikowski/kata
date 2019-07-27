@@ -1,0 +1,6 @@
+C:\programowanie\visual 2015\c#\kata\8 rank\String repeat\String repeat\bin\Debug\String repeat.exe.config
+C:\programowanie\visual 2015\c#\kata\8 rank\String repeat\String repeat\bin\Debug\String repeat.exe
+C:\programowanie\visual 2015\c#\kata\8 rank\String repeat\String repeat\bin\Debug\String repeat.pdb
+C:\programowanie\visual 2015\c#\kata\8 rank\String repeat\String repeat\obj\Debug\String repeat.csprojResolveAssemblyReference.cache
+C:\programowanie\visual 2015\c#\kata\8 rank\String repeat\String repeat\obj\Debug\String repeat.exe
+C:\programowanie\visual 2015\c#\kata\8 rank\String repeat\String repeat\obj\Debug\String repeat.pdb

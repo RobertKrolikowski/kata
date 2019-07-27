@@ -1,0 +1,5 @@
+C:\programowanie\visual 2015\c#\kata\8 rank\How good are you really\How good are you really\bin\Debug\How good are you really.exe.config
+C:\programowanie\visual 2015\c#\kata\8 rank\How good are you really\How good are you really\bin\Debug\How good are you really.exe
+C:\programowanie\visual 2015\c#\kata\8 rank\How good are you really\How good are you really\bin\Debug\How good are you really.pdb
+C:\programowanie\visual 2015\c#\kata\8 rank\How good are you really\How good are you really\obj\Debug\How good are you really.exe
+C:\programowanie\visual 2015\c#\kata\8 rank\How good are you really\How good are you really\obj\Debug\How good are you really.pdb
