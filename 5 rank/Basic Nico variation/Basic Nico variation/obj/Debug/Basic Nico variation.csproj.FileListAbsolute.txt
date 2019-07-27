@@ -1,0 +1,6 @@
+C:\programowanie\visual 2015\c#\kata\5 rank\Basic Nico variation\Basic Nico variation\bin\Debug\Basic Nico variation.exe.config
+C:\programowanie\visual 2015\c#\kata\5 rank\Basic Nico variation\Basic Nico variation\obj\Debug\Basic Nico variation.csprojResolveAssemblyReference.cache
+C:\programowanie\visual 2015\c#\kata\5 rank\Basic Nico variation\Basic Nico variation\bin\Debug\Basic Nico variation.exe
+C:\programowanie\visual 2015\c#\kata\5 rank\Basic Nico variation\Basic Nico variation\bin\Debug\Basic Nico variation.pdb
+C:\programowanie\visual 2015\c#\kata\5 rank\Basic Nico variation\Basic Nico variation\obj\Debug\Basic Nico variation.exe
+C:\programowanie\visual 2015\c#\kata\5 rank\Basic Nico variation\Basic Nico variation\obj\Debug\Basic Nico variation.pdb

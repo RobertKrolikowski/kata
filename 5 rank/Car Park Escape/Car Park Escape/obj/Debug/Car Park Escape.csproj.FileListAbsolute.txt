@@ -1,0 +1,6 @@
+C:\programowanie\visual 2015\c#\kata\5 rank\Car Park Escape\Car Park Escape\bin\Debug\Car Park Escape.exe.config
+C:\programowanie\visual 2015\c#\kata\5 rank\Car Park Escape\Car Park Escape\obj\Debug\Car Park Escape.csprojResolveAssemblyReference.cache
+C:\programowanie\visual 2015\c#\kata\5 rank\Car Park Escape\Car Park Escape\bin\Debug\Car Park Escape.exe
+C:\programowanie\visual 2015\c#\kata\5 rank\Car Park Escape\Car Park Escape\bin\Debug\Car Park Escape.pdb
+C:\programowanie\visual 2015\c#\kata\5 rank\Car Park Escape\Car Park Escape\obj\Debug\Car Park Escape.exe
+C:\programowanie\visual 2015\c#\kata\5 rank\Car Park Escape\Car Park Escape\obj\Debug\Car Park Escape.pdb
