@@ -1,0 +1,6 @@
+C:\programowanie\visual 2015\c#\kata\5 rank\int32 to IPv4\int32 to IPv4\bin\Debug\int32 to IPv4.exe.config
+C:\programowanie\visual 2015\c#\kata\5 rank\int32 to IPv4\int32 to IPv4\bin\Debug\int32 to IPv4.exe
+C:\programowanie\visual 2015\c#\kata\5 rank\int32 to IPv4\int32 to IPv4\bin\Debug\int32 to IPv4.pdb
+C:\programowanie\visual 2015\c#\kata\5 rank\int32 to IPv4\int32 to IPv4\obj\Debug\int32 to IPv4.csprojResolveAssemblyReference.cache
+C:\programowanie\visual 2015\c#\kata\5 rank\int32 to IPv4\int32 to IPv4\obj\Debug\int32 to IPv4.exe
+C:\programowanie\visual 2015\c#\kata\5 rank\int32 to IPv4\int32 to IPv4\obj\Debug\int32 to IPv4.pdb

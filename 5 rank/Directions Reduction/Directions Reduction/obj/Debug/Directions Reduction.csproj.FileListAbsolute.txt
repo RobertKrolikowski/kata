@@ -1,0 +1,2 @@
+C:\programowanie\visual 2015\c#\kata\5 rank\Directions Reduction\Directions Reduction\bin\Debug\Directions Reduction.exe.config
+C:\programowanie\visual 2015\c#\kata\5 rank\Directions Reduction\Directions Reduction\obj\Debug\Directions Reduction.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\programowanie\visual 2015\c#\kata\5 rank\rot13\rot13\bin\Debug\rot13.exe.config
+C:\programowanie\visual 2015\c#\kata\5 rank\rot13\rot13\bin\Debug\rot13.exe
+C:\programowanie\visual 2015\c#\kata\5 rank\rot13\rot13\bin\Debug\rot13.pdb
+C:\programowanie\visual 2015\c#\kata\5 rank\rot13\rot13\obj\Debug\rot13.csprojResolveAssemblyReference.cache
+C:\programowanie\visual 2015\c#\kata\5 rank\rot13\rot13\obj\Debug\rot13.exe
+C:\programowanie\visual 2015\c#\kata\5 rank\rot13\rot13\obj\Debug\rot13.pdb

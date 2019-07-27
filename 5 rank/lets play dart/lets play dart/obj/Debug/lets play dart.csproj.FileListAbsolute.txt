@@ -1,0 +1,6 @@
+C:\programowanie\visual 2015\c#\kata\5 rank\lets play dart\lets play dart\bin\Debug\lets play dart.exe.config
+C:\programowanie\visual 2015\c#\kata\5 rank\lets play dart\lets play dart\bin\Debug\lets play dart.exe
+C:\programowanie\visual 2015\c#\kata\5 rank\lets play dart\lets play dart\bin\Debug\lets play dart.pdb
+C:\programowanie\visual 2015\c#\kata\5 rank\lets play dart\lets play dart\obj\Debug\lets play dart.csprojResolveAssemblyReference.cache
+C:\programowanie\visual 2015\c#\kata\5 rank\lets play dart\lets play dart\obj\Debug\lets play dart.exe
+C:\programowanie\visual 2015\c#\kata\5 rank\lets play dart\lets play dart\obj\Debug\lets play dart.pdb
