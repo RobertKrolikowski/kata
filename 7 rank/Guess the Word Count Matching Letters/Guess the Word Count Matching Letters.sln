@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Guess the Word Count Matching Letters", "Guess the Word Count Matching Letters\Guess the Word Count Matching Letters.csproj", "{45B107A5-AF36-4117-A115-1B8FEBB5E4BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45B107A5-AF36-4117-A115-1B8FEBB5E4BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45B107A5-AF36-4117-A115-1B8FEBB5E4BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45B107A5-AF36-4117-A115-1B8FEBB5E4BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45B107A5-AF36-4117-A115-1B8FEBB5E4BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

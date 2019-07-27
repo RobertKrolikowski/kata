@@ -1,0 +1,6 @@
+C:\programowanie\visual 2015\c#\kata\7 rank\Simple Fun 16 Apple Boxes\Simple Fun 16 Apple Boxes\bin\Debug\Simple Fun 16 Apple Boxes.exe.config
+C:\programowanie\visual 2015\c#\kata\7 rank\Simple Fun 16 Apple Boxes\Simple Fun 16 Apple Boxes\bin\Debug\Simple Fun 16 Apple Boxes.exe
+C:\programowanie\visual 2015\c#\kata\7 rank\Simple Fun 16 Apple Boxes\Simple Fun 16 Apple Boxes\bin\Debug\Simple Fun 16 Apple Boxes.pdb
+C:\programowanie\visual 2015\c#\kata\7 rank\Simple Fun 16 Apple Boxes\Simple Fun 16 Apple Boxes\obj\Debug\Simple Fun 16 Apple Boxes.csprojResolveAssemblyReference.cache
+C:\programowanie\visual 2015\c#\kata\7 rank\Simple Fun 16 Apple Boxes\Simple Fun 16 Apple Boxes\obj\Debug\Simple Fun 16 Apple Boxes.exe
+C:\programowanie\visual 2015\c#\kata\7 rank\Simple Fun 16 Apple Boxes\Simple Fun 16 Apple Boxes\obj\Debug\Simple Fun 16 Apple Boxes.pdb

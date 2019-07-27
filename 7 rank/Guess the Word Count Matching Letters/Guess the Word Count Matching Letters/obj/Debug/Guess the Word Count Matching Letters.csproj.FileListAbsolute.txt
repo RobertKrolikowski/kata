@@ -1,0 +1,5 @@
+C:\programowanie\visual 2015\c#\kata\Guess the Word Count Matching Letters\Guess the Word Count Matching Letters\bin\Debug\Guess the Word Count Matching Letters.exe.config
+C:\programowanie\visual 2015\c#\kata\Guess the Word Count Matching Letters\Guess the Word Count Matching Letters\bin\Debug\Guess the Word Count Matching Letters.exe
+C:\programowanie\visual 2015\c#\kata\Guess the Word Count Matching Letters\Guess the Word Count Matching Letters\bin\Debug\Guess the Word Count Matching Letters.pdb
+C:\programowanie\visual 2015\c#\kata\Guess the Word Count Matching Letters\Guess the Word Count Matching Letters\obj\Debug\Guess the Word Count Matching Letters.exe
+C:\programowanie\visual 2015\c#\kata\Guess the Word Count Matching Letters\Guess the Word Count Matching Letters\obj\Debug\Guess the Word Count Matching Letters.pdb

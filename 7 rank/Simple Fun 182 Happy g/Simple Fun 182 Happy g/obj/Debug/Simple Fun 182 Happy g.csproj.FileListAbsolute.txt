@@ -1,0 +1,5 @@
+C:\programowanie\visual 2015\c#\kata\Simple Fun 182 Happy g\Simple Fun 182 Happy g\bin\Debug\Simple Fun 182 Happy g.exe.config
+C:\programowanie\visual 2015\c#\kata\Simple Fun 182 Happy g\Simple Fun 182 Happy g\bin\Debug\Simple Fun 182 Happy g.exe
+C:\programowanie\visual 2015\c#\kata\Simple Fun 182 Happy g\Simple Fun 182 Happy g\bin\Debug\Simple Fun 182 Happy g.pdb
+C:\programowanie\visual 2015\c#\kata\Simple Fun 182 Happy g\Simple Fun 182 Happy g\obj\Debug\Simple Fun 182 Happy g.exe
+C:\programowanie\visual 2015\c#\kata\Simple Fun 182 Happy g\Simple Fun 182 Happy g\obj\Debug\Simple Fun 182 Happy g.pdb

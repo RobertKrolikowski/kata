@@ -1,0 +1,6 @@
+C:\programowanie\visual 2015\c#\kata\7 rank\Simple Fun 372 Lose Or Earn\Simple Fun 372 Lose Or Earn\bin\Debug\Simple Fun 372 Lose Or Earn.exe.config
+C:\programowanie\visual 2015\c#\kata\7 rank\Simple Fun 372 Lose Or Earn\Simple Fun 372 Lose Or Earn\obj\Debug\Simple Fun 372 Lose Or Earn.csprojResolveAssemblyReference.cache
+C:\programowanie\visual 2015\c#\kata\7 rank\Simple Fun 372 Lose Or Earn\Simple Fun 372 Lose Or Earn\bin\Debug\Simple Fun 372 Lose Or Earn.exe
+C:\programowanie\visual 2015\c#\kata\7 rank\Simple Fun 372 Lose Or Earn\Simple Fun 372 Lose Or Earn\bin\Debug\Simple Fun 372 Lose Or Earn.pdb
+C:\programowanie\visual 2015\c#\kata\7 rank\Simple Fun 372 Lose Or Earn\Simple Fun 372 Lose Or Earn\obj\Debug\Simple Fun 372 Lose Or Earn.exe
+C:\programowanie\visual 2015\c#\kata\7 rank\Simple Fun 372 Lose Or Earn\Simple Fun 372 Lose Or Earn\obj\Debug\Simple Fun 372 Lose Or Earn.pdb
